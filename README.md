@@ -21,7 +21,7 @@ This helps us achieve several objectives:
 ## Resources
 ### Tensor flow:
 - video url : (https://youtu.be/DFKHh7_zzJc)
-You are expected to use Tensor Flow for this project, We have seen some cases of using the tool already, but this is an opportunity to go deeper. Start by going through this thorough tutorial over Friday and the week end, and make sure to use the official documentation (https://www.tensorflow.org/guide/effective_tf2) as a reference
+- You are expected to use Tensor Flow for this project, We have seen some cases of using the tool already, but this is an opportunity to go deeper. Start by going through this thorough tutorial over Friday and the week end, and make sure to use the official documentation (https://www.tensorflow.org/guide/effective_tf2) as a reference
 
 ## Project examples:
 
