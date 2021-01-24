@@ -1,6 +1,4 @@
 # NEURAL-NETWORKS
-Neural networks
-
 ## Context
 Your assessment for neural network will take a different form compared to prior IPs. Neural networks have a lot more depth and require a lot more tinkering, so you will be given the entire project week to work on a neural network IP.
 
